@@ -35,6 +35,6 @@ class MainActivity : AppCompatActivity() {
 
     private fun getHostingUrl(): String {
         return url
-//        test git save
+//        test git save 2
     }
 }
